@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Songtao Li"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- logo: /assets/images/badges/jiangda.png  # Logo is optional
   name: 讲师
 - name: 硕士生导师
 

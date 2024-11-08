@@ -31,22 +31,23 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: 武汉科技大学
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
-
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+    控制科学与工程 <br/>
+    博士研究生
+  date: 2019-2022
+- name: 深圳大学
+  position: 光学工程 <br/>
+    硕士研究生
+  date: 2013-2016
+- name: 湖北工业大学
+  position: 电子信息科学 <br/>
+    本科
+  date: 2009-2013
+ experience:
+ - name: 中国信科集团特种设备研发部
+   position: 研发工程师-Java-web-网安
+   date: 2016-2019
 
 awards:
 - name: Award Name 2

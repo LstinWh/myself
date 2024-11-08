@@ -43,16 +43,13 @@ portrait_caption: >-
 education:
 - name: 武汉科技大学
   position: >- 
-    控制科学与工程 <br/>
-    博士研究生
+    控制科学与工程 博士研究生
   date: 2019-2022
 - name: 深圳大学
-  position: 光学工程 <br/>
-    硕士研究生
+  position: 光学工程 硕士研究生
   date: 2013-2016
 - name: 湖北工业大学
-  position: 电子信息科学 <br/>
-    本科
+  position: 电子信息科学 本科
   date: 2009-2013
  experience:
  - name: 中国信科集团特种设备研发部

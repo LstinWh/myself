@@ -9,7 +9,6 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date:       "2024"
 
 abstract: >-
-  IIGNMFC constructs intra-hypergraph regularization and intra-hypergraph regularization by hypergraph learning, which can precisely induce high-dimensional data to map toward low-dimensional.
 cover:          /assets/images/covers/cover3.jpg
 authors:
   - Songtao Li

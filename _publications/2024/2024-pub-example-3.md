@@ -14,8 +14,8 @@ authors:
   - Songtao Li
   - Shiqian Wu
   - Junchi Zhang
-  - Chang Tang*
-  - Zushuai Wei*
+  - Chang Tang#
+  - Zushuai Wei#
 links:
 #  Code: https://github.com/luost26/academic-homepage
 #  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk

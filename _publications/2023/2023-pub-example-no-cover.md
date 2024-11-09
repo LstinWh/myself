@@ -1,22 +1,21 @@
 ---
-title:          "Publication without cover image"
-date:           2023-01-1 00:01:00 +0800
+title:          "基于样本对元学习的小样本图像分类方法"
+date:           2022-01-1 00:01:00 +0800
 selected:       false
-pub:            "International Conference on Learning Representations (ICLR)"
+pub:            "电子学报"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2023"
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">一级学报</span>'
+pub_date:       "2022"
 
 abstract: >-
-  When the cover image is not provided, it will generate a random colorful bubble images as the cover image using the <code>bubble_visual_hash.js</code> script.
-# cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/cover1.jpg
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - 李维刚
+  - 甘平#
+  - 谢璐
+  - 李松涛
 links:
-  Code: https://github.com/luost26/bubble-visual-hash
-  Demo: https://luost26.github.io/bubble-visual-hash
+  # Code: https://github.com/luost26/bubble-visual-hash
+  # Demo: https://luost26.github.io/bubble-visual-hash
 ---

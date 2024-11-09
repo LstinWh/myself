@@ -11,7 +11,7 @@ pub_date:       "2024"
 abstract: >-
 cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Songtao Li*
+  - Songtao Li#
   - Yang Li
   - Junchi Zhang
 links:

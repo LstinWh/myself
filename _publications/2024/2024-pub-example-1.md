@@ -5,7 +5,7 @@ selected:       true
 pub:            "Engineering Applications of Artificial Intelligence"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">SCI一区</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">SCI一区 TOP</span>'
 pub_date:       "2024"
 
 abstract: >-

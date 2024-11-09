@@ -1,17 +1,17 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
+title:          "Subspace multi-regularized non-negative matrix factorization for hyperspectral unmixing"
 date:           2023-01-05 00:01:00 +0800
 selected:       true
-pub:            "Nature Communications"
+pub:            "Applied Intelligence
 pub_date:       "2023"
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
+In this paper, a novel NMF unmixing model is proposed, called SMRNMF, which learns multiple subspace structures from the original hyperspectral images and combines them into a sparse NMF framework to improve the performance of the model.
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Songtao Li
+- Weigang Li*
+- Lian Cai
+- Yang Li
 links:
-  Paper: https://www.cell.com
+  Paper: https://link.springer.com/article/10.1007/s10489-022-04121-y
 ---

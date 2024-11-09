@@ -34,18 +34,25 @@ short_bio: >-
      2. 尽管我会尽全力帮助您，但也希望您明白：达到毕业要求以取得学位是您自己的任务。所以希望您能够努力科研，有问题及时和老师沟通。<br/>
      3. 目前组内横向资源充足，经费也够，如果您有兴趣，组内在锻炼你的代码工程能力的同时，也可以提供极富有竞争力的横向劳务报酬。
   </p>
+  <p>
+  <b>主持项目：</b><br/>
+  1. 国家自然科学基金青年项目 自监督图对比嵌入的深度非负矩阵分解高光谱解混研究
+  2. 江汉大学人才引进启动项目
+  3. 克拉玛依新科澳石油人事系统横向
+  4. 呆鱼乐动科技有限公司大数据优化横向
+  </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
   爱打游戏、爱唱歌、爱工作、爱家庭、要热爱生活哇.
 
-education:
-- name: 武汉科技大学
-  position: 控制科学与工程 博士研究生
-  date: 2019-2022
-- name: 深圳大学
-  position: 光学工程 硕士研究生
-  date: 2013-2016
+#education:
+#- name: 武汉科技大学
+#  position: 控制科学与工程 博士研究生
+#  date: 2019-2022
+#- name: 深圳大学
+#  position: 光学工程 硕士研究生
+#  date: 2013-2016
 
 # experience:
 # - name: Peking University
@@ -53,10 +60,10 @@ education:
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+#awards:
+#- name: Award Name 2
+#  date: 2024
+#- name: Award Name 1 
+#  date: 2021
+#- name: A quick brown fox jumps over the lazy dog and runs away award
+#  date: 2021

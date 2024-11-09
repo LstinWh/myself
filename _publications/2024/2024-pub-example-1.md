@@ -2,10 +2,10 @@
 title:          "Inter-and intra-hypergraph regularized nonnegative matrix factorization with hybrid constraints"
 date:           2024-05-12 00:01:00 +0800
 selected:       true
-pub:            "Engineering Applications of Artificial Intelligence(中科院一区 Top)"
+pub:            "Engineering Applications of Artificial Intelligence"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">SCI一区</span>'
 pub_date:       "2024"
 
 abstract: >-

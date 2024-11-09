@@ -9,7 +9,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date:       "2024"
 
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
+  In this article, a novel self-initiated unsupervised subspace learning method named robust nonnegative matrix factorization with self-initiated multigraph contrastive fusion (RNMF-SMGF) is proposed. RNMF-SMGF is capable of creating samples with different angles and learning different graph structures based on these different angles in a self-initiated method without changing the original data.
 cover:          /assets/images/covers/cover3.jpg
 authors:
   - Songtao Li

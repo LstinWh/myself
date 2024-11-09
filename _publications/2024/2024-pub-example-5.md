@@ -1,7 +1,7 @@
 ---
 title:          "Maximum Correntropy-Based Kurtosis Regularization Constrained Non-negative Matrix Factorization For Hyperspectral Unmixing"
 date:           2024-05-12 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Chinese Control Conference (CCC)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

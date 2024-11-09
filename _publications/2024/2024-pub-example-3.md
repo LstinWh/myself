@@ -2,7 +2,7 @@
 title:          "Robust Nonnegative Matrix Factorization With Self-Initiated Multigraph Contrastive Fusion"
 date:           2024-05-12 00:01:00 +0800
 selected:       true
-pub:            "IEEE Transactions on Neural Networks and Learning Systems"
+pub:            "IEEE Transactions on Neural Networks and Learning Systems(中科院一区 Top)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
@@ -12,11 +12,12 @@ abstract: >-
   Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
 cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Songtao Li
+  - Shiqian Wu
+  - Junchi Zhang
+  - Chang Tang
+  - Zushuai Wei
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+#  Code: https://github.com/luost26/academic-homepage
+#  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---

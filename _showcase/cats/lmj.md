@@ -8,7 +8,7 @@ group: Cats
   <img data-src="{{ '/assets/images/lmj.jpg' | relative_url }}" class="lazy w-100 rounded" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <div class="card-body">
     <p class="card-text">
-      2022级研究生 罗孟杰.
+      2022级研究生 罗孟杰
     </p>
   </div>
 </div>

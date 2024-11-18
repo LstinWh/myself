@@ -4,9 +4,9 @@ width: 4
 date: 2021-09-12 00:01:00 +0800
 height: 295px
 images:
-- src: https://github.com/LstinWh/myself/tree/main/assets/images/合影1.jpg
+- src: /assets/images/合影1.jpg
   desc: 俄罗斯Mobx来团队讨论(武汉).
-- src: https://github.com/LstinWh/myself/tree/main/assets/images/合影2.jpg
+- src: /assets/images/合影2.jpg
   desc: MFD团队与呆鱼成都-贵阳团建
 ---
 

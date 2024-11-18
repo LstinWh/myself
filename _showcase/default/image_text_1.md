@@ -16,10 +16,10 @@ date: 2020-01-12 00:01:00 +0800
       跨学科合作：MFD团队与多个学科领域的专家合作，将NMF技术应用于生物信息学、社交网络分析等新兴领域，以解决实际问题。
       技术交流与分享：我们积极参与国内外学术会议，分享我们的研究成果，同时吸收其他研究者的最新发现，以促进团队的学术成长和技术进步。
     </p>
-    <!-- <p class="card-text">
+    <p class="card-text">
       {% raw %}
       <code>&lt;img data-src=&quot;[Image URL]&quot; class=&quot;lazy w-100 rounded-sm&quot; src=&quot;{{ '/assets/images/empty_300x200.png' | relative_url }}&quot;&gt;</code>
       {% endraw %}
-    </p> -->
+    </p>
   </div>
 </div>

@@ -27,8 +27,8 @@ short_bio: >-
   </p>
   <p>
      <b>作为导师，我有以下承诺：</b><br/>
-     1，我深知学生的成功就是老师的成功，我会全力帮助和指导学生进步。<br/>
-     2，尽全力给予学生足够的指导时间，亲力亲为。<br/>
+     1. 我深知学生的成功就是老师的成功，我会全力帮助和指导学生进步。<br/>
+     2. 尽全力给予学生足够的指导时间，亲力亲为。<br/>
      <b>作为学生，我希望您可以做到：</b><br/>
      1. 科研是一个充满痛苦和惊喜的过程，兴趣和努力是克服痛苦的良药。请务必选择自己感兴趣的方向进行科研。<br/>
      2. 尽管我会尽全力帮助您，但也希望您明白：达到毕业要求以取得学位是您自己的任务。所以希望您能够努力科研，有问题及时和老师沟通。<br/>
@@ -43,6 +43,12 @@ short_bio: >-
      <b>学术兼职：</b><br/>
      1. 计算机领域知名期刊Information Processing & Management（SCI 1区）编委 2025.7.1- <br/>
      2. TNNLS、IPM、INS、KBS、ISA transactions等知名期刊审稿人
+     <b>科研论文：</b><br/>
+     1. Li S, Yuan J, Hu X, et al. Local and Global Structure Double Fusion Embedding Deep Non-Negative Matrix Factorization for Multi-View Clustering[J]. Expert Systems with Applications, 2025. (第一作者，SCI 1区)
+     2. Li S, Wang Q, Luo M J, et al. Self-supervised star graph optimization embedding non-negative matrix factorization[J]. Information Processing & Management, 2025. (第一作者，SCI 1区)
+     3. Li S, Wu S, Tang C, et al. Robust nonnegative matrix factorization with self-initiated multigraph contrastive fusion[J]. IEEE Transactions on Neural Networks and Learning Systems, 2024. (第一作者，SCI 1区)
+     4. Li S, Li Y, Zhang J. Inter-and intra-hypergraph regularized nonnegative matrix factorization with hybrid constraints[J]. Engineering Applications of Artificial Intelligence, 2024. (第一作者，SCI 1区)
+     5. Li S, Li W, Lu H, et al. Semi-supervised non-negative matrix tri-factorization with adaptive neighbors and block-diagonal learning[J]. Engineering Applications of Artificial Intelligence, 2023. (第一作者，SCI 1区)
   </p>
   
 portrait_url: /assets/images/photos/portrait.jpg
